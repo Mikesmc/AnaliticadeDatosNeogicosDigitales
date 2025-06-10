@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\LimpiarDataMart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\LimpiarDataMart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\05-Datamart_FactVentas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\05-Datamart_FactVentas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\04-Datamart-DimTiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\04-Datamart-DimTiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\03-Datamart_DimProdcuto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\03-Datamart_DimProdcuto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\02-Datamart_DimEmpleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\02-Datamart_DimEmpleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\01-Datamart_DimCliente.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\01-Datamart_DimCliente.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\Carga_MasterDataMart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{37AAA9EC-7CD0-3077-0152-227FBE1DC51E}|Datamart_Northwind\\Datamart_Northwind.dtproj|solutionrelative:Datamart_Northwind\\Carga_MasterDataMart.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\007-Stage_Tiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\007-Stage_Tiempo.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\04-Stage_Ventas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\04-Stage_Ventas.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\03-Stage_Clientes.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\03-Stage_Clientes.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\06-Stage_Provedor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\06-Stage_Provedor.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\01-StageEmpleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\01-StageEmpleado.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\05-Stage_Producto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\05-Stage_Producto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\02-Stage_Categoria.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\02-Stage_Categoria.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\Carga_Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\Carga_Master.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\Limpiar_Stage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{48116DBE-AAEC-4FAA-D3BA-A75178C89BA9}|ETL_Northwind\\Stage_Northwind.dtproj|solutionrelative:ETL_Northwind\\Limpiar_Stage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02-Datamart_DimEmpleado.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\02-Datamart_DimEmpleado.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\02-Datamart_DimEmpleado.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\02-Datamart_DimEmpleado.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\02-Datamart_DimEmpleado.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T21:33:45.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05-Datamart_FactVentas.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\05-Datamart_FactVentas.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\05-Datamart_FactVentas.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\05-Datamart_FactVentas.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\05-Datamart_FactVentas.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T21:51:01.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LimpiarDataMart.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\LimpiarDataMart.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\LimpiarDataMart.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\LimpiarDataMart.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\LimpiarDataMart.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T21:50:42.554Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01-Datamart_DimCliente.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\01-Datamart_DimCliente.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\01-Datamart_DimCliente.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\01-Datamart_DimCliente.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\01-Datamart_DimCliente.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T21:50:57.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carga_MasterDataMart.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\Carga_MasterDataMart.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\Carga_MasterDataMart.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\Carga_MasterDataMart.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\Carga_MasterDataMart.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T21:50:53.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03-Datamart_DimProdcuto.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\03-Datamart_DimProdcuto.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\03-Datamart_DimProdcuto.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\03-Datamart_DimProdcuto.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\03-Datamart_DimProdcuto.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T21:50:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04-Datamart-DimTiempo.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\04-Datamart-DimTiempo.dtsx",
+              "RelativeDocumentMoniker": "Datamart_Northwind\\04-Datamart-DimTiempo.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\Datamart_Northwind\\04-Datamart-DimTiempo.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Datamart_Northwind\\04-Datamart-DimTiempo.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T21:51:00.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "05-Stage_Producto.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\05-Stage_Producto.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\05-Stage_Producto.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\05-Stage_Producto.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\05-Stage_Producto.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:46.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "01-StageEmpleado.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\01-StageEmpleado.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\01-StageEmpleado.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\01-StageEmpleado.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\01-StageEmpleado.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:48.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "06-Stage_Provedor.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\06-Stage_Provedor.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\06-Stage_Provedor.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\06-Stage_Provedor.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\06-Stage_Provedor.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "007-Stage_Tiempo.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\007-Stage_Tiempo.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\007-Stage_Tiempo.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\007-Stage_Tiempo.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\007-Stage_Tiempo.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "03-Stage_Clientes.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\03-Stage_Clientes.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\03-Stage_Clientes.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\03-Stage_Clientes.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\03-Stage_Clientes.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:52.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "04-Stage_Ventas.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\04-Stage_Ventas.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\04-Stage_Ventas.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\04-Stage_Ventas.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\04-Stage_Ventas.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:53.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "02-Stage_Categoria.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\02-Stage_Categoria.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\02-Stage_Categoria.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\02-Stage_Categoria.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\02-Stage_Categoria.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:44.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Carga_Master.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\Carga_Master.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\Carga_Master.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\Carga_Master.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\Carga_Master.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:39.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Limpiar_Stage.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\Limpiar_Stage.dtsx",
+              "RelativeDocumentMoniker": "ETL_Northwind\\Limpiar_Stage.dtsx",
+              "ToolTip": "C:\\AnaliticaDeDatos\\02-Desarrollo-etl\\ETL_Northwind\\ETL_Northwind\\Limpiar_Stage.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "ETL_Northwind\\Limpiar_Stage.dtsx [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-05T22:45:25.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
